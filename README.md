@@ -32,6 +32,29 @@ Créer des solutions digitales puissantes, modernes et accessibles pour les entr
 
 ---
 
+## 🔥 Langages les plus utilisés
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INFOTELCOM\&layout=compact\&theme=tokyonight)
+
+---
+
+## ⚡ GitHub Streak (activité)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=INFOTELCOM\&theme=tokyonight)
+
+---
+
+## 🎯 Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+
+---
+
 ## 🌍 Vision
 
 > “Transformer les idées en solutions numériques concrètes.”
@@ -41,3 +64,14 @@ Créer des solutions digitales puissantes, modernes et accessibles pour les entr
 ## 📫 Contact
 
 📧 [contact.infotelcom@gmail.com](mailto:contact.infotelcom@gmail.com)
+
+---
+
+## 🚀 Résultat final attendu
+
+Ton GitHub deviendra :
+
+* 🟢 professionnel
+* ⚡ style entreprise tech moderne
+* 🔥 attractif pour clients et recruteurs
+* 💼 crédible pour INFOTELCOM
