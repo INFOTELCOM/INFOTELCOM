@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🚀 INFOTELCOM Tech
 
-<!--
-**INFOTELCOM/INFOTELCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=200\&section=header\&text=INFOTELCOM%20Tech\&fontSize=40\&fontColor=ffffff)
 
-Here are some ideas to get you started:
+## 💡 À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+INFOTELCOM est une structure spécialisée dans le développement logiciel et les solutions informatiques modernes.
+
+Nous concevons des applications web, mobiles et systèmes de gestion innovants pour accompagner la transformation digitale.
+
+---
+
+## ⚙️ Compétences
+
+* 💻 Développement Web (HTML, CSS, JavaScript, PHP)
+* 📱 Applications mobiles
+* 🖥️ Logiciels de gestion (VB.NET, WinDev)
+* 🔐 Sécurité informatique
+* ☁️ Bases de données & systèmes
+
+---
+
+## 🚀 Objectif
+
+Créer des solutions digitales puissantes, modernes et accessibles pour les entreprises et particuliers.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=INFOTELCOM\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌍 Vision
+
+> “Transformer les idées en solutions numériques concrètes.”
+
+---
+
+## 📫 Contact
+
+📧 [contact.infotelcom@gmail.com](mailto:contact.infotelcom@gmail.com)
