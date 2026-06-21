@@ -1,105 +1,95 @@
-# 🌐 INFOTELCOM TECH // DIGITAL CORE SYSTEM
+# 🌐 INFOTELCOM TECH // NEURAL SYSTEM v3.0
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0f0f,100:00f5ff\&height=240\&section=header\&text=INFOTELCOM%20TECH\&fontSize=44\&fontColor=ffffff\&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,100:00ffe1\&height=260\&section=header\&text=INFOTELCOM%20NEURAL%20CORE\&fontSize=40\&fontColor=00ffe1\&animation=fadeIn)
 
 ---
 
 ## ⚡ SYSTEM STATUS
 
-🟢 Online — Active Development
-🚀 Startup Mode: ENABLED
-🧠 AI Integration: READY
-🌍 Global Vision: ACTIVE
+🟢 ONLINE — FULL STACK ACTIVE
+🧠 NEURAL ENGINE: RUNNING
+🚀 DEPLOYMENT MODE: GLOBAL
+⚙️ AI MODULE: INTEGRATED
 
 ---
 
-## 🧬 IDENTITY MATRIX
+## 🌀 ANIMATED CORE VISUALS
 
-> INFOTELCOM TECH is a digital engineering structure focused on building next-generation software systems, intelligent applications, and scalable IT solutions.
+### 🔥 Contribution Flow (Snake Animation)
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 💠 CORE DOMAINS
+### ⚡ Typing Effect (Dynamic Identity)
 
-```text id="core1"
-▸ Web Engineering (Frontend / Backend / Fullstack)
-▸ Mobile Applications (Android / Cross-platform)
-▸ System Architecture & Software Design
-▸ Database Engineering & Optimization
-▸ Cybersecurity & Ethical Hacking
-▸ AI-assisted Development
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFE1\&size=22\&center=true\&vCenter=true\&width=700\&lines=INFOTELCOM+TECH;Software+Engineering+Unit;AI+%7C+Web+%7C+Mobile+%7C+Security;Building+Digital+Futures)
+
+---
+
+## 📊 NEURAL PERFORMANCE DASHBOARD
+
+---
+
+## 📈 SYSTEM EVOLUTION CURVE
+
+---
+
+## 🧠 ARCHITECTURE MATRIX
+
+---
+
+## 🎯 SYSTEM MODULES (CORE STACK)
+
+```text id="corestack"
+▸ FRONTEND ENGINE → React / HTML / CSS / JS
+▸ BACKEND CORE → PHP / Node / VB.NET
+▸ AI MODULE → Machine Learning / Automation
+▸ DATABASE ENGINE → MySQL / SQL Server
+▸ SECURITY LAYER → Ethical Hacking / Defense Systems
 ```
 
 ---
 
-## 📊 LIVE PERFORMANCE DASHBOARD
+## ⚙️ TECH BADGE ARSENAL
 
-![Stats](https://github-readme-stats.vercel.app/api?username=INFOTELCOM\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INFOTELCOM\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=INFOTELCOM\&theme=tokyonight\&hide_border=true)
-
----
-
-## 📈 INFOTELCOM GROWTH ENGINE
+![HTML](https://img.shields.io/badge/HTML5-ff3c00?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-00aaff?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffe600?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00ff88?style=for-the-badge\&logo=python\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-8e44ad?style=for-the-badge\&logo=php\&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-ff66cc?style=for-the-badge\&logo=.net\&logoColor=white)
 
 ---
 
-## 🧠 TECHNOLOGY DNA
+## 🌌 CYBER VISION
+
+> “We don’t just code software — we engineer digital intelligence systems.”
 
 ---
 
-## ⚙️ BADGE STACK // SYSTEM MODULES
-
-![HTML](https://img.shields.io/badge/HTML5-ff4500?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1e90ff?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd700?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-00ff99?style=for-the-badge\&logo=python\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-8a2be2?style=for-the-badge\&logo=php\&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-ff69b4?style=for-the-badge\&logo=.net\&logoColor=white)
-
----
-
-## 🔥 SYSTEM PRINCIPLES
-
-```text id="principles"
-◆ Innovation First
-◆ Clean Architecture
-◆ Performance Optimization
-◆ Security by Design
-◆ Scalability Thinking
-```
-
----
-
-## 🌍 GLOBAL VISION STATEMENT
-
-> “We build digital systems that transform ideas into intelligent realities.”
-
----
-
-## 📡 COMMUNICATION NODE
+## 📡 CONTACT NODE
 
 📧 [contact.infotelcom@gmail.com](mailto:contact.infotelcom@gmail.com)
 📍 Brazzaville / France
-⚡ INFOTELCOM TECH CORE NETWORK
+⚡ INFOTELCOM NEURAL NETWORK ACTIVE
 
 ---
 
-## 🚀 FINAL SYSTEM OUTPUT
+## 🚀 FINAL RESULT
 
-✔ Enterprise-level GitHub identity
-✔ Tech startup visual branding
-✔ Structured engineering profile
-✔ Data-driven presentation style
-✔ High-impact recruiter visibility
+✔ Ultra futuristic GitHub identity
+✔ Animated system visuals
+✔ Data-driven dashboards
+✔ Startup-level credibility
+✔ Cyber/AI aesthetic branding
+✔ Recruiter WOW effect guaranteed
 
 ---
 
-## 🧿 FUTURE MODE ACTIVATED
+## 🧿 NEXT LEVEL UPGRADE (OPTIONAL)
 
-🧠 Artificial Intelligence integration
-🌐 Global expansion roadmap
-⚙️ Software ecosystem development
-🚀 INFOTELCOM = DIGITAL EVOLUTION
+🚀 Real 3D website dashboard (WebGL)
+🧠 AI chatbot INFOTELCOM intégré
+🎥 Animated landing page (Apple/Tesla style)
+🌐 Full startup identity system
