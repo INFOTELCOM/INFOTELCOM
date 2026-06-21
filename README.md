@@ -1,77 +1,96 @@
-# 🚀 INFOTELCOM Tech
+# 🌐 INFOTELCOM TECH
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=200\&section=header\&text=INFOTELCOM%20Tech\&fontSize=40\&fontColor=ffffff)
-
-## 💡 À propos
-
-INFOTELCOM est une structure spécialisée dans le développement logiciel et les solutions informatiques modernes.
-
-Nous concevons des applications web, mobiles et systèmes de gestion innovants pour accompagner la transformation digitale.
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:00c6ff\&height=220\&section=header\&text=INFOTELCOM%20TECH\&fontSize=42\&fontColor=ffffff\&animation=fadeIn)
 
 ---
 
-## ⚙️ Compétences
+## ⚡ ENTREPRISE DIGITALE & INNOVATION
 
-* 💻 Développement Web (HTML, CSS, JavaScript, PHP)
-* 📱 Applications mobiles
-* 🖥️ Logiciels de gestion (VB.NET, WinDev)
-* 🔐 Sécurité informatique
-* ☁️ Bases de données & systèmes
+> 🚀 INFOTELCOM est une entreprise spécialisée dans le développement logiciel, les solutions IT et la transformation digitale.
 
 ---
 
-## 🚀 Objectif
+## 🎯 VISION
 
-Créer des solutions digitales puissantes, modernes et accessibles pour les entreprises et particuliers.
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=INFOTELCOM\&show_icons=true\&theme=tokyonight)
+Créer des solutions numériques modernes, rapides et intelligentes pour entreprises et particuliers.
 
 ---
 
-## 🔥 Langages les plus utilisés
+## 💡 DOMAINES D’EXPERTISE
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INFOTELCOM\&layout=compact\&theme=tokyonight)
+```text
+💻 Développement Web & Mobile
+🧠 Intelligence logicielle
+🖥️ Applications de gestion
+🔐 Cybersécurité
+☁️ Bases de données & Cloud
+```
 
 ---
 
-## ⚡ GitHub Streak (activité)
+## 📊 STATISTIQUES GITHUB
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=INFOTELCOM\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=INFOTELCOM\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=20)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INFOTELCOM\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 🎯 Badges
+## 🔥 ACTIVITÉ LIVE (STREAK)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=INFOTELCOM\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📈 COURBE D’ACTIVITÉ (VISUEL PREMIUM)
+
+```text
+Progression INFOTELCOM GitHub (simulation de croissance)
+```
+
+---
+
+## 🧠 RÉPARTITION DES TECHNOLOGIES
+
+---
+
+## 🎯 BADGES TECH PREMIUM
+
+![HTML](https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
 
 ---
 
-## 🌍 Vision
+## 🌍 OBJECTIF
 
-> “Transformer les idées en solutions numériques concrètes.”
+> “Transformer les idées en systèmes intelligents et en solutions digitales concrètes.”
 
 ---
 
-## 📫 Contact
+## 📡 CONTACT OFFICIEL
 
 📧 [contact.infotelcom@gmail.com](mailto:contact.infotelcom@gmail.com)
+📍 Brazzaville / France
+⚡ INFOTELCOM TECH
 
 ---
 
-## 🚀 Résultat final attendu
+## 🚀 RÉSULTAT FINAL
 
-Ton GitHub deviendra :
+✔ Profil GitHub professionnel
+✔ Image entreprise tech réelle
+✔ Présence visuelle premium
+✔ Effet “startup internationale”
+✔ Impact visuel fort pour recruteurs & clients
 
-* 🟢 professionnel
-* ⚡ style entreprise tech moderne
-* 🔥 attractif pour clients et recruteurs
-* 💼 crédible pour INFOTELCOM
+---
+
+## 💎 INFOTELCOM FUTURE
+
+🚀 Startup en construction
+🧠 Innovation logicielle
+🌍 Vision internationale
