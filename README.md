@@ -1,4 +1,4 @@
-# <img width="100" alt="unnamed" src="https://github.com/user-attachments/assets/e770def5-7402-4cc1-b1ba-fbdbceaa865f" /> **INFOTELCOM TECH**
+# <img width="90" alt="unnamed" src="https://github.com/user-attachments/assets/e770def5-7402-4cc1-b1ba-fbdbceaa865f" /> **INFOTELCOM TECH**
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,100:00ffe1\&height=280\&section=header\&text=INFOTELCOM%20QUANTUM%20CORE\&fontSize=38\&fontColor=00ffe1\&animation=fadeIn)
 
