@@ -1,4 +1,4 @@
-# 🌌 INFOTELCOM TECH // NEURAL FUTURE SYSTEM v4.0
+# 🌌 INFOTELCOM TECH
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,100:00ffe1\&height=260\&section=header\&text=INFOTELCOM%20NEURAL%20CORE\&fontSize=40\&fontColor=00ffe1\&animation=fadeIn)
 
@@ -104,7 +104,7 @@
 
 📧 [contact.infotelcom@gmail.com](mailto:contact.infotelcom@gmail.com)
 📍 Brazzaville / France
-⚡ INFOTELCOM NEURAL NETWORK LINK ACTIVE
+⚡ INFOTELCOM TECH
 
 ---
 
