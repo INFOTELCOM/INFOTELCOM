@@ -1,0 +1,5 @@
+import { supabase } from './supabase';
+export async function listStudents(){if(!supabase)return [];const {data,error}=await supabase.from('students').select('*').order('last_name');if(error)throw error;return data??[]}
+export async function createStudent(input){if(!supabase)throw new Error('Supabase non configuré');const {data,error}=await supabase.from('students').insert(input).select().single();if(error)throw error;return data}
+export async function listEnrollments(schoolYearId){if(!supabase)return [];let q=supabase.from('enrollments').select('*,students(*),classes(*)').order('created_at',{ascending:false});if(schoolYearId)q=q.eq('school_year_id',schoolYearId);const {data,error}=await q;if(error)throw error;return data??[]}
+export async function saveGrade(id,value){if(!supabase)throw new Error('Supabase non configuré');const {data,error}=await supabase.from('grades').update({value,workflow_status:'Brouillon',updated_at:new Date().toISOString()}).eq('id',id).select().single();if(error)throw error;return data}
